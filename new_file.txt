@@ -1,13 +1,6 @@
 - Hello I am dev1 I will be initiating a repo
-<<<<<<< HEAD
 - Hello I am dev2 I am adding a new feature --added
-<<<<<<< HEAD
-- Hello I am dev2 I am again adding a new feature 
-=======
-- Hello I am dev2 I am adding a new feature
-- I am dev1 I am behind origin but i want to keep this line in the origin 
->>>>>>> 6a4f410 (dev1 added change)
-=======
 - Hello I am dev2 I am again adding a new feature -- added
 - Hello I am dev2 I am again adding a new feature 
->>>>>>> 48781554617832e45b2d25a243461740174709f4
+- Hello I am dev2 I am adding a new feature
+- I am dev1 I am behind origin but i want to keep this line in the origin 
