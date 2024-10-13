@@ -2,3 +2,4 @@
 - Hello I am dev2 I am adding a new feature --added
 - Hello I am dev2 I am again adding a new feature 
 - I am dev1 I am behind origin but i want to keep this line in the origin 
+- Dev2: added new line
