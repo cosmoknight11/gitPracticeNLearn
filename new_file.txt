@@ -1,2 +1,3 @@
 - Hello I am dev1 I will be initiating a repo
-- Hello I am dev2 I am adding a new feature
+- Hello I am dev2 I am adding a new feature --added
+- Hello I am dev2 I am again adding a new feature 
