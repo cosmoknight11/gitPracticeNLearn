@@ -5,3 +5,5 @@
 - Dev2: added new line
 - Dev1: will stash these changes and apply the changes after pulling the new branch
 - Dev2: making some changes
+- Dev1: Accidently added will delete this line in future commit
+- Dev1: will have to keep this.
